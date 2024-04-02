@@ -1,0 +1,99 @@
+{
+  "@@locale": "en",
+  "signInGreetings": "Sign in to continue!",
+  "@signInGreetings": {
+    "description": "Sign in text in login page"
+  },
+  "username": "username",
+  "@username": {
+    "description": "username placeholder"
+  },
+  "password": "password",
+  "@password": {
+    "description": "password placeholder"
+  },
+  "signIn": "Sign In",
+  "@signIn": {
+    "description": "Sign in text on sign in button"
+  },
+  "failedLogin": "Failed to login, please check your credential",
+  "@failedLogin": {
+    "description": "Failed to login, please check your credential text"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home"
+  },
+  "favorites": "Favorites",
+  "@favorites": {
+    "description": "Favorites"
+  },
+  "account": "Account",
+  "@account": {
+    "description": "account"
+  },
+  "yourAccount": "Your Account",
+  "@yourAccount": {
+    "description": "app bar text in profile"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "email title"
+  },
+  "github": "Github",
+  "@github": {
+    "description": "Github title"
+  },
+  "gender": "Gender",
+  "@gender": {
+    "description": "Gender title"
+  },
+  "city": "City",
+  "@city": {
+    "description": "city title"
+  },
+  "aboutApp": "About App",
+  "@aboutApp": {
+    "description": "about app title"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "logout text in button"
+  },
+  "aboutUs": "About Us",
+  "@aboutUs": {
+    "description": "about is app bar title"
+  },
+  "noFavorites": "You have no favorites. Let''s find movie inspiration",
+  "@noFavorites": {
+    "description": "favorites is empty text"
+  },
+  "yourFavs": "Your Favorites",
+  "@yourFavs": {
+    "description": "favorites page appbar"
+  },
+  "country": "Countries",
+  "@country": {
+    "description": "Country detail text"
+  },
+  "genre": "Genres",
+  "@genre": {
+    "description": "Genres detail text"
+  },
+  "prolog": "Prolog",
+  "@prolog": {
+    "description": "prolog title"
+  },
+  "typeSomething": "Type Something . . ",
+  "@typeSomething": {
+    "description": "type something hint"
+  },
+  "noMovie": "No Movies Available",
+  "@noMovie": {
+    "description": "no movie available"
+  },
+  "selectLang": "Select Language",
+  "@selectLang": {
+    "description": "languange selection"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "@@locale": "id",
+  "signInGreetings": "Masuk untuk melanjutkan!",
+  "@signInGreetings": {
+    "description": "Sign in text in login page"
+  },
+  "username": "nama pengguna",
+  "@username": {
+    "description": "username placeholder"
+  },
+  "password": "kata sandi",
+  "@password": {
+    "description": "password placeholder"
+  },
+  "signIn": "Masuk",
+  "@signIn": {
+    "description": "Sign in text on sign in button"
+  },
+  "failedLogin": "Failed to login, please check your credential",
+  "@failedLogin": {
+    "description": "Failed to login, please check your credential text"
+  },
+  "home": "Beranda",
+  "@home": {
+    "description": "Home"
+  },
+  "favorites": "Favorit",
+  "@favorites": {
+    "description": "Favorites"
+  },
+  "account": "Akun",
+  "@account": {
+    "description": "account"
+  },
+  "yourAccount": "Akun Saya",
+  "@yourAccount": {
+    "description": "app bar text in profile"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "email title"
+  },
+  "github": "Github",
+  "@github": {
+    "description": "Github title"
+  },
+  "gender": "Jenis Kelamin",
+  "@gender": {
+    "description": "Gender title"
+  },
+  "city": "Kota",
+  "@city": {
+    "description": "city title"
+  },
+  "aboutApp": "Tentang Aplikasi",
+  "@aboutApp": {
+    "description": "about app title"
+  },
+  "logout": "Keluar",
+  "@logout": {
+    "description": "logout text in button"
+  },
+  "aboutUs": "Tentang Kami",
+  "@aboutUs": {
+    "description": "about is app bar title"
+  },
+  "noFavorites": "Kamu tidak memiliki film favorit. Ayo cari film favoritmu di sini.",
+  "@noFavorites": {
+    "description": "favorites is empty text"
+  },
+  "yourFavs": "Favorit Kamu",
+  "@yourFavs": {
+    "description": "favorites page appbar"
+  },
+  "country": "Negara",
+  "@country": {
+    "description": "Country detail text"
+  },
+  "genre": "Genre",
+  "@genre": {
+    "description": "Genres detail text"
+  },
+  "prolog": "Ringkasan",
+  "@prolog": {
+    "description": "prolog title"
+  },
+  "typeSomething": "Ketik Sesuatu . . ",
+  "@typeSomething": {
+    "description": "type something hint"
+  },
+  "noMovie": "Tidak ada film ditemukan",
+  "@noMovie": {
+    "description": "no movie available"
+  },
+  "selectLang": "Ubah bahasa",
+  "@selectLang": {
+    "description": "languange selection"
+  }
+}
